@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+python-dotenv
+elasticsearch>=8.0.0
+flask
