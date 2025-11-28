@@ -1,7 +1,7 @@
 # Information Retrieval
 
-Download **Main Reports** and **County Fact Sheets** from here [https://www.knbs.or.ke/reports/kdhs-2022/?utm_source=chatgpt.com
-](https://www.knbs.or.ke/reports/kdhs-2022/?utm_source=chatgpt.com)
+Download **Main Reports** and **County Fact Sheets** from here [https://www.knbs.or.ke/reports/kdhs-2022/
+](https://www.knbs.or.ke/reports/kdhs-2022/)
 
 Store the files here in your repository: **data/public_health_reports**
 
